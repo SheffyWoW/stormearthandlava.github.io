@@ -67,19 +67,19 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* Focus down {{ site.data.raid.moq.light_ember }} and {{ site.data.raid.moq.void_ember }} whenever they are present.
+* Focus down {{ site.data.raid.MQD.light_ember }} and {{ site.data.raid.MQD.void_ember }} whenever they are present.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime during Phase 2.
 
 #### Defensives:
-* Use {{ site.data.spell.as }} for {{ site.data.raid.moq.light_flames }} and {{ site.data.raid.moq.void_flames }} during Phase 2.
+* Use {{ site.data.spell.as }} for {{ site.data.raid.MQD.light_flames }} and {{ site.data.raid.MQD.void_flames }} during Phase 2.
 * Use {{ site.data.spell.healing_surge }} as needed and utilize {{ site.data.spell.hst }} as a movement filler.
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to help players navigate during Phase 2.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.moq.light_eruption }} from {{ site.data.raid.moq.light_ember }} and {{ site.data.raid.moq.void_eruption }} from {{ site.data.raid.moq.void_ember }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.MQD.light_eruption }} from {{ site.data.raid.MQD.light_ember }} and {{ site.data.raid.MQD.void_eruption }} from {{ site.data.raid.MQD.void_ember }}.
 
 #### Additional Notes:
-* If available, use {{ site.data.externals.demonic_gateway }} to negate the knockup from {{ site.data.raid.moq.death_drop }}.
+* If available, use {{ site.data.externals.demonic_gateway }} to negate the knockup from {{ site.data.raid.MQD.death_drop }}.
 
 </div>
 </div>
